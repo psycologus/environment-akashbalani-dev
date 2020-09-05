@@ -1,0 +1,10 @@
+adminUser:
+  password: local:akashbalani/adminUser:password
+  username: AkashBalani
+enableDocker: false
+pipelineUser:
+  email: balani.aakash@icloud.com
+  token: local:akashbalani/pipelineUser:token
+  username: psycologus
+prow:
+  hmacToken: local:akashbalani/prow:hmacToken
